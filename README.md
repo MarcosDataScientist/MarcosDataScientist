@@ -7,12 +7,12 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
-- 🎯 Currently focused on Data Science and AI projects that enhance commercial operations and customer experience.  
-- 🧠 Strong interest in statistical modeling, machine learning, exploratory analysis, and data visualization.  
-- 🤝 Passionate about translating business questions into clear, actionable analytics.  
-- 🌱 Constantly expanding skills in MLOps, data engineering, and model delivery best practices.
+- Currently focused on Data Science and AI projects that enhance commercial operations and customer experience.  
+- Strong interest in statistical modeling, machine learning, exploratory analysis, and data visualization.  
+- Passionate about translating business questions into clear, actionable analytics.  
+- Constantly expanding skills in MLOps, data engineering, and model delivery best practices.
 
 ## 🛠️ Core Skills
 
