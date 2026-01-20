@@ -31,12 +31,6 @@
 - **Resampling Techniques:** bootstrap, cross-validation, permutation tests to quantify model uncertainty and robustness.  
 - **Experimental Design:** power analysis, sample size estimation, factorial designs tailored to marketing and sales initiatives.
 
-## Featured Projects
-
-### `projeto_banco_de_dados`
-A complete system to manage employee exit evaluations, supporting question authoring, form creation, and analytics dashboards — all in JavaScript.
-[View repository](https://github.com/MarcosDataScientist/projeto_banco_de_dados)
-
 
 ## GitHub Metrics
 
